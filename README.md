@@ -32,7 +32,9 @@
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<br>
-<br>
+<br />
+<br />
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-farruggia)](https://github.com/anuraghazra/github-readme-stats)
+#### GITHUB STATS:
+
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan-farruggia&theme=dark&show_icons=true)
