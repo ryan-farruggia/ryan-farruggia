@@ -9,6 +9,7 @@
 - **🎓 Approximate graduation date: Spring 2023**<br>
 - **🥅 2022 Goals: Learn a new tech stack (MERN?)**
 - **📫 Reach Me: rjfarruggia@csus.edu**
+- **🔗 Connect w/ me: [LinkedIn](https://www.linkedin.com/in/rjfar99/)**
 
 #### Spring 2022 Courses:
 - **🛠️ Computer Organization**
