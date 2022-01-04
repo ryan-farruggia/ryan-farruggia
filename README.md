@@ -35,6 +35,6 @@
 <br />
 <br />
 
-#### GITHUB STATS:
+##### GITHUB STATS:
 
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan-farruggia&theme=dark&show_icons=true)
