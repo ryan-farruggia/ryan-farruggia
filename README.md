@@ -17,7 +17,7 @@
 - **📚 Database Management Systems**
 - **🧠 Computability and Formal Language Theory**
 
-#### TOOLS:
+#### Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Eclipse IDE" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
@@ -27,7 +27,7 @@
 <br />
 <br />
 
-#### LANGUAGES:
+#### Languages:
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -46,6 +46,6 @@
 <br />
 <br />
 
-##### GITHUB STATS:
+#### My GitHub Stats:
 
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan-farruggia&theme=dark&show_icons=true)
