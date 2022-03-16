@@ -31,6 +31,7 @@
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="40px" src="https://plumbr.io/app/uploads/2019/06/java.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png" />
+<img align="left" alt="MongoDB" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" />
 
 <br />
 <br />
