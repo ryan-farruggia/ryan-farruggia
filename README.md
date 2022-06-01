@@ -5,7 +5,7 @@
 
 #### I'm a student at California State University - Sacramento
 - **🎉 I just launched my own [website][1] from scratch!**<br>
-- **🌱 I’m currently learning <red>MongoDB</red>, x86, and React**<br>
+- **🌱 I’m currently learning <red>MongoDB</red> and React**<br>
 - **🎓 Approximate graduation date: Spring 2023**<br>
 - **🥅 2022 Goals: Learn a new tech stack (MERN?)**
 - **📫 Reach Me: rjfarruggia@csus.edu**
