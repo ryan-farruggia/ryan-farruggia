@@ -4,16 +4,22 @@
 [2]: https://www.linkedin.com/in/rjfar99/
 
 #### I'm a student at California State University - Sacramento
-- 🎉 **I just launched my own [website][1] from scratch!**
-- 🌱 **I’m currently learning**: GraphQL and Ruby
-- 🎓 **Expected graduation**: Spring 2023
-- 🥅 **2022 Goals**: Land an awesome internship at the California ISO ✔
-- 📫 **Reach Me**: rjfarruggia@csus.edu
-- 🔗 **Connect w/ me**: [LinkedIn][2]
+- 🎉 **I just launched my own [website][1] from scratch!**<br>
+- 🌱 **I’m currently learning**: GraphQL and Ruby<br>
+- 🎓 **Expected graduation**: Spring 2023<br>
+- 🥅 **2022 Goals**: Land an awesome internship at the California ISO ✔<br>
+- 📫 **Reach Me**: rjfarruggia@csus.edu<br>
+- 🔗 **Connect w/ me**: [LinkedIn][2]<br>
 
-#### Summer 2022 Courses:
-- **🧪 Software Testing & Quality Assurance
-- **💾 Cyber Attacks & Counter-measures
+#### Summer 2022 Courses (COMPLETED):
+> 🧪 Software Testing & Quality Assurance<br>
+> 💾 Cyber Attacks & Counter-measures
+
+#### Fall 2022 Courses:
+> 🧠 Applied Linear Algebra<br>
+> ⚖ Mechanics, Heat, and Light<br>
+> 🕹 Graphics Programming<br>
+> 💻 Senior Project (Part 1/2)<br>
 
 #### Tools:
 
