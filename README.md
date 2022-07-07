@@ -19,7 +19,7 @@
 > 🧠 Applied Linear Algebra<br>
 > ⚖ Mechanics, Heat, and Light<br>
 > 🕹 Graphics Programming<br>
-> 💻 Senior Project (Part 1/2)<br>
+> 💻 Senior Project (Part 1 of 2)<br>
 
 #### Tools:
 
