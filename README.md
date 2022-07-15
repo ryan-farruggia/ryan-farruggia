@@ -5,7 +5,7 @@
 
 #### I'm a student at California State University - Sacramento
 - 🎉 **I just launched my own [website][1] from scratch!**<br>
-- 🌱 **I’m currently learning**: GraphQL and Ruby<br>
+- 🌱 **I’m currently learning**: Ruby on Rails<br>
 - 🎓 **Expected graduation**: Spring 2023<br>
 - 🥅 **2022 Goals**: Land an awesome internship at the California ISO ✔<br>
 - 📫 **Reach Me**: rjfarruggia@csus.edu<br>
