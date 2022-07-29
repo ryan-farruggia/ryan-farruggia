@@ -4,7 +4,7 @@
 [2]: https://www.linkedin.com/in/rjfar99/
 
 #### I'm a student at California State University - Sacramento
-- 🎉 **Check out my super epic [website][1]!**<br>
+- 🎉 **Check out my epic [website][1]!**<br>
 - 🌱 **I’m currently learning**: Ruby on Rails<br>
 - 🎓 **Expected graduation**: Spring 2023<br>
 - 🥅 **2022 Goals**: Land an awesome internship at the California ISO ✔<br>
