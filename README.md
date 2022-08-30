@@ -11,13 +11,9 @@
 - 📫 **Reach Me**: rjfarruggia@csus.edu<br>
 - 🔗 **Connect w/ me**: [LinkedIn][2]<br>
 
-#### Summer 2022 Courses (COMPLETED):
-> 🧪 Software Testing & Quality Assurance<br>
-> 💾 Cyber Attacks & Counter-measures
-
 #### Fall 2022 Courses:
 > 🧠 Applied Linear Algebra<br>
-> ⚖ Mechanics, Heat, and Light<br>
+> ⚖ General Physics<br>
 > 🕹 Graphics Programming<br>
 > 💻 Senior Project (Part 1 of 2)<br>
 
