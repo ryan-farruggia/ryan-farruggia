@@ -6,12 +6,12 @@
 [4]: https://www.caiso.com/Pages/default.aspx
 
 #### I'm a student at California State University - Sacramento
-- 🎉 **Check out my epic [website][1]!**<br>
+- 🎉 **Look at this -> [website][1]!**<br>
 - 🌱 **I’m currently learning**: Ruby on Rails<br>
-- 🎓 **Expected graduation**: Spring 2023<br>
-- 🥅 **2022 Goals**: 
-  - Land an awesome 🌴 Summer internship at the [California ISO][4] ✔<br>
-  - Land an awesome 🍂 Fall internship at [myJeenie][3] ✔<br>
+- 🎓 **Expected graduation**: December 2023<br>
+- 🥅 **2023 Goals**:
+  - Continue my awesome internship at [myJeenie][3] ✔<br>
+  - GRADUATE!!!
 - 📫 **Reach Me**: rjfarruggia@csus.edu<br>
 - 🔗 **Connect w/ me**: [LinkedIn][2]<br>
 
