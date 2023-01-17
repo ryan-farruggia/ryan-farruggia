@@ -6,7 +6,7 @@
 [4]: https://www.caiso.com/Pages/default.aspx
 
 #### I'm a student at California State University - Sacramento
-- 🎉 **Look at this -> [website][1]!**<br>
+- 🎉 **Look at this cool [website][1]!**<br>
 - 🌱 **I’m currently learning**: Ruby on Rails<br>
 - 🎓 **Expected graduation**: December 2023<br>
 - 🥅 **2023 Goals**:
