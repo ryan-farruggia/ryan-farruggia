@@ -15,11 +15,13 @@
 - 📫 **Reach Me**: rjfarruggia@csus.edu<br>
 - 🔗 **Connect w/ me**: [LinkedIn][2]<br>
 
-#### Fall 2022 Courses:
-> 🧠 Applied Linear Algebra<br>
-> ⚖ General Physics<br>
-> 🕹 Graphics Programming<br>
-> 💻 Senior Project (Part 1 of 2)<br>
+#### Spring 2023 Courses:
+> 🧠 Theory of Computation<br>
+> 🛠 Operating System Principles<br>
+> 🏗 Advanced Database Systems<br>
+> 💻 Senior Project (Part 2 of 2)<br>
+> 👩‍💻 Web Programming<br>
+> ✒ Computer Science Career Planning
 
 #### Tools:
 
