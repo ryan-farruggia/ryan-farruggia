@@ -6,9 +6,8 @@
 [4]: https://www.caiso.com/Pages/default.aspx
 
 #### I'm a Software Developer at [myJeenie][3]
-- 🎉 **Look at this cool [website][1]!**<br>
+- 🎉 **Check out what I'm working on: [rjfar.com][1]!**<br>
 - 🌱 **I’m currently learning**: Ruby on Rails<br>
-- 🎓 **Expected graduation**: December 2023<br>
 - 🥅 **2023 Goals**:
   - Continue my awesome position at [myJeenie][3] ✔<br>
 - 📫 **Reach Me**: rjfarruggia@gmail.com<br>
