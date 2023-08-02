@@ -5,23 +5,14 @@
 [3]: https://myjeenie.com
 [4]: https://www.caiso.com/Pages/default.aspx
 
-#### I'm a student at California State University - Sacramento
+#### I'm a Software Developer at [myJeenie][3]
 - 🎉 **Look at this cool [website][1]!**<br>
 - 🌱 **I’m currently learning**: Ruby on Rails<br>
 - 🎓 **Expected graduation**: December 2023<br>
 - 🥅 **2023 Goals**:
-  - Continue my awesome internship at [myJeenie][3] ✔<br>
-  - GRADUATE!!!
-- 📫 **Reach Me**: rjfarruggia@csus.edu<br>
+  - Continue my awesome position at [myJeenie][3] ✔<br>
+- 📫 **Reach Me**: rjfarruggia@gmail.com<br>
 - 🔗 **Connect w/ me**: [LinkedIn][2]<br>
-
-#### Spring 2023 Courses:
-> 🧠 Theory of Computation<br>
-> 🛠 Operating System Principles<br>
-> 🏗 Advanced Database Systems<br>
-> 💻 Senior Project (Part 2 of 2)<br>
-> 👩‍💻 Web Programming<br>
-> ✒ Computer Science Career Planning
 
 #### Tools:
 
@@ -44,11 +35,3 @@
 <img align="left" alt="Ruby" width="45px" src="https://www.logolynx.com/images/logolynx/85/85e74fd4ec731ee889a1812c10a196fa.png" />
 <img align="left" alt="Rails" width="105px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png" />
 <img align="left" alt="GraphQL" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-
-
-<br />
-<br />
-
-#### My GitHub Stats:
-
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan-farruggia&theme=dark&show_icons=true)
