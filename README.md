@@ -4,7 +4,7 @@
 [2]: https://www.linkedin.com/in/rjfar99/
 [4]: https://www.caiso.com/Pages/default.aspx
 
-- 📫 **Reach Me**: rjfarruggia@gmail.com<br>
+- 📫 **Reach Me**: rfarruggia99@gmail.com<br>
 - 🔗 **Connect w/ me**: [LinkedIn][2]<br>
 
 ### Tools
