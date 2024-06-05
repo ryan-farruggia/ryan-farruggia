@@ -1,7 +1,7 @@
 ## Nice to meet you, I'm Ryan 👋
 
 [1]: http://rjfar.com
-[2]: https://www.linkedin.com/in/rjfar99/
+[2]: https://www.linkedin.com/in/rjfar/
 [4]: https://www.caiso.com/Pages/default.aspx
 
 - 📫 **Reach Me**: rfarruggia99@gmail.com<br>
